@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://image-metadata-viewer.correia95.workers.dev/sitemap.xml
